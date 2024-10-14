@@ -1,0 +1,5 @@
+Number of characters: 234
+Number of lines: 5
+Number of vowels: 104
+Number of consonants: 120
+Number of digits: 3
